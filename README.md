@@ -6,3 +6,4 @@
 1. commit02 - (newBranch2)
 1. commit03 - (newBranch2)
 1. commit04
+1. commit05
