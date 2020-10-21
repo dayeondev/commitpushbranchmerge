@@ -5,3 +5,4 @@
 1. commit03 - (newVersion)
 1. commit02 - (newBranch2)
 1. commit03 - (newBranch2)
+1. commit04
