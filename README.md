@@ -1,3 +1,4 @@
 1. commit01
-2. commit02 - (newVersion)
+1. commit02 - (newVersion)
+1. commit03 - (newVersion)
 
